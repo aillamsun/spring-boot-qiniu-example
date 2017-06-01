@@ -51,7 +51,7 @@ qiniu.bucket-url =
 
 ### Test 测试上传
 ```java
-private MockMvc mvc;
+    private MockMvc mvc;
 
     @Autowired
     private WebApplicationContext wac;
