@@ -47,6 +47,7 @@ qiniu.bucket-url =
 
 ```
 
+-----
 
 ### Test 测试上传
 ```java
@@ -82,5 +83,5 @@ private MockMvc mvc;
 ```
 
 输出结果：
-200
-http://opbek976n.bkt.clouddn.com/20170601135932_341.jpeg
+> * 200
+> * http://opbek976n.bkt.clouddn.com/20170601135932_341.jpeg
